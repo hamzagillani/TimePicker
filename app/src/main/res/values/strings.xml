@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time Picker</string>
+
+    <string name="timedate" translatable="false">Set Date and Time</string>
+    <string name="time" translatable="false">Set Time</string>
+    <string name="date" translatable="false">Set Date</string>
+</resources>
